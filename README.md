@@ -1,6 +1,6 @@
 # KalimbaMatic!
 
-[![GitHub release](#)](#)
+[![GitHub release](https://github.com/Orthke/kalimbaMatic)](https://github.com/Orthke/kalimbaMatic)
 
 # The Project
 After seeing a kalimba video on an instagram reel, I thought to myself "that looks pretty easy". So one Amazon order and $10 later I had my very own. The basics were easy to pickup, but I saw lots of potential for complex songs that you couldn't play with just two thumbs.
